@@ -4,4 +4,4 @@ This is my repository where I keep my data analysis projects. My projects includ
 
 Operations that are covered in my projects include Data Cleaning, Manupulation/Wrangling, Visualization and Story tellig with data. Other operations that are performed are extracting data from soft files such csv/xlsx/json and transforming that data into a meaningful information using programming languages Python and R.
 
-After fully analysing the data, conclusions and recommendations are suggested in the last stages of our projects.
+After fully analysing the data, conclusions and recommendations are suggested in the last stages of the project.
