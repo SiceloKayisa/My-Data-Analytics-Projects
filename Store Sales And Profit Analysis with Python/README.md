@@ -13,7 +13,7 @@
 
 **Data Description**
 
-You are provided with the store data in a csv file format containing the sales data. This sales data is made up of order and customer details, product, quantity and the respective sales. You will have to wrangle this data before you communicate your results by performing some computations where needed.<br>
+You are provided with the store data **(Sample - Superstore)** in a csv file format containing the sales data. This sales data is made up of order and customer details, product, quantity and the respective sales. You will have to wrangle this data before you communicate your results by performing some computations where needed.<br>
 
 **Aim**<br>
 
