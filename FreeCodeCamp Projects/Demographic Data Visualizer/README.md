@@ -1,14 +1,14 @@
-In this challenge you must analyze demographic data using Pandas. You aregiven a dataset of demographic data that was extracted from the 1994 Censusdatabase.
+**In this challenge you must analyze demographic data using Pandas. You aregiven a dataset of demographic data that was extracted from the 1994 Censusdatabase.**
 
-You must use Pandas to answer the following questions:
+__You must use Pandas to answer the following questions__:
 
 - How many people of each race are represented in this dataset? Thisshould be a Pandas series with race names as the index labels. (
 race
 column)
 
--What is the average age of men?<br>
--What is the percentage of people who have a Bachelor's degree?<br>
--What percentage of people with advanced education (
+- What is the average age of men?<br>
+- What is the percentage of people who have a Bachelor's degree?<br>
+- What percentage of people with advanced education (
 Bachelors
 ,
 Masters
