@@ -1,8 +1,7 @@
-#Demographic Data Analyzer#
+__Demographic Data Analyzer__
 
 
-You will be
-working on this project with our Replit starter code
+For this project we were working on the Replit starter code via FreeCodeCamp but for simplicity and readability purposes I have also created notebook file to accommodate everyone
 
 https://replit.com/github/freeCodeCamp/boilerplate-demographic-dataanalyzer
 .
