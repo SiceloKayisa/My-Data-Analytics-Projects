@@ -15,10 +15,10 @@ Masters
 , or
 Doctorate
 ) make more than 50K?<br>
--What percentage of people without advanced education make more than50K?<br>
--What is the minimum number of hours a person works per week?<br>
--What percentage of the people who work the minimum number of hoursper week have a salary of more than 50K?<br>
--What country has the highest percentage of people that earn >50K andwhat is that percentage?<br>
+- What percentage of people without advanced education make more than50K?<br>
+- What is the minimum number of hours a person works per week?<br>
+- What percentage of the people who work the minimum number of hoursper week have a salary of more than 50K?<br>
+- What country has the highest percentage of people that earn >50K andwhat is that percentage?<br>
 Identify the most popular occupation for those who earn >50K in India.
 Use the starter code in the fi le
 demographic_data_analyzer
