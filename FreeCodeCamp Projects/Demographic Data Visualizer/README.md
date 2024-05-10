@@ -5,7 +5,8 @@ You must use Pandas to answer the following questions:
 - How many people of each race are represented in this dataset? Thisshould be a Pandas series with race names as the index labels. (
 race
 column)
-What is the average age of men?
+
+What is the average age of men?<br>
 What is the percentage of people who have a Bachelor's degree?
 What percentage of people with advanced education (
 Bachelors
