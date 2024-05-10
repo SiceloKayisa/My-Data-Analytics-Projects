@@ -6,19 +6,19 @@ You must use Pandas to answer the following questions:
 race
 column)
 
-What is the average age of men?<br>
-What is the percentage of people who have a Bachelor's degree?
-What percentage of people with advanced education (
+-What is the average age of men?<br>
+-What is the percentage of people who have a Bachelor's degree?<br>
+-What percentage of people with advanced education (
 Bachelors
 ,
 Masters
 , or
 Doctorate
-) make more than 50K?
-What percentage of people without advanced education make more than50K?
-What is the minimum number of hours a person works per week?
-What percentage of the people who work the minimum number of hoursper week have a salary of more than 50K?
-What country has the highest percentage of people that earn >50K andwhat is that percentage?
+) make more than 50K?<br>
+-What percentage of people without advanced education make more than50K?<br>
+-What is the minimum number of hours a person works per week?<br>
+-What percentage of the people who work the minimum number of hoursper week have a salary of more than 50K?<br>
+-What country has the highest percentage of people that earn >50K andwhat is that percentage?<br>
 Identify the most popular occupation for those who earn >50K in India.
 Use the starter code in the fi le
 demographic_data_analyzer
