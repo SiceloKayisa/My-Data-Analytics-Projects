@@ -32,4 +32,4 @@ Doctorate
 Identify the most popular occupation for those who earn >50K in India.
 Use the starter code in the fi le
 demographic_data_analyzer
-. Update thecode so all variables set to "None" are set to the appropriate calculation orcode. Round all decimals to the nearest tenth.
+. Update the code so all variables set to "None" are set to the appropriate calculation or code. Round all decimals to the nearest tenth.
