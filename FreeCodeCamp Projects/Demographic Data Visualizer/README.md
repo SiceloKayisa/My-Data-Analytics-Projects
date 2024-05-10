@@ -1,3 +1,13 @@
+##Demographic Data Analyzer##
+
+
+You will be
+working on this project with our Replit starter code
+
+https://replit.com/github/freeCodeCamp/boilerplate-demographic-dataanalyzer
+.
+
+
 **In this challenge you must analyze demographic data using Pandas. You aregiven a dataset of demographic data that was extracted from the 1994 Census database.**
 
 __You must use Pandas to answer the following questions__:
