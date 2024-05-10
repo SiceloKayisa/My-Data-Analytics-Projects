@@ -21,3 +21,7 @@ In addition, ABC must apply the logic of calculating charges based on the slab w
 ABC has internal data split across three reports: Website Order Report, Master SKU, and Warehouse PIN for all India Pincode mappings. In addition, they receive billing data from courier companies.<br>
 
 The website order report includes order IDs and products (SKUs) for each order. The SKU master provides the gross weight of each product, which is needed to calculate the total weight of each order. Courier company invoices contain information such as AWB number, order ID, shipment weight, warehouse pickup PIN, customer delivery PIN, delivery area, the charge per shipment and type of shipment.
+
+**References**
+
+https://statso.io/b2b-ecommerce-fraud-case-study/
