@@ -1,4 +1,4 @@
-# My-Data-Analysis-Projects
+# My-Data-Analytics-Projects
 
 This is my repository where I keep my data analysis projects. My projects include working with tech tools such as Python, R, SQL and data managing tools such as Microsoft Excel, Microsoft Power BI and Tableau. 
 
