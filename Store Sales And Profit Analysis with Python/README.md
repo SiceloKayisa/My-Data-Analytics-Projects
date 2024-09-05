@@ -22,4 +22,4 @@ You are provided with the store data **(Sample - Superstore)** in a csv file for
 - Which products seem to significantly contribute to more sales and profit for the store, and with that knowledge what are the recommendations.<br>
 - What can be done to the store to improve its sales and profit?<br>
 
-**Conclusions and Recommendations**
+
