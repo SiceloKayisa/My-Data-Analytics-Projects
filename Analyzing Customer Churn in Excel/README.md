@@ -65,6 +65,8 @@ __Key Takeaways__
   - Develop competitive device and data plan offerings
   - Focus on improving customer experience in high-churn states
 
+### Dashboard
+
 
 ![image](https://github.com/user-attachments/assets/7f8060b2-1892-4827-9f11-1628499ad7da)
 
