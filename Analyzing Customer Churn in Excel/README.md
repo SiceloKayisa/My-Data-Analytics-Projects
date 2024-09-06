@@ -59,7 +59,7 @@ __Methodology__ <br>
   - Created a comprehensive dashboard for visualizing churn patterns
   - Employed calculated columns and fields for deeper insights
 
-Key Takeaways
+__Key Takeaways__
   - Target retention strategies towards the 79-88 age group
   - Address pricing concerns and enhance service quality
   - Develop competitive device and data plan offerings
