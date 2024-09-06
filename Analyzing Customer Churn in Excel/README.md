@@ -55,9 +55,11 @@ Highest churn rates:
   * New Hampshire (63%)
 
 __Methodology__ <br>
-  - Utilized Excel's Pivot Tables, Charts, and Data Analysis Toolpak
-  - Created a comprehensive dashboard for visualizing churn patterns
+  - Performed Data Aggregation using the Pivot Tables
+  - Organised data using Sorting and Conditional formatting
   - Employed calculated columns and fields for deeper insights
+  - Created a Comprehensive Dashboard for visualizing churn patterns
+  - Derived a report and presentation that can be presented to the company's stakeholders
 
 __Key Takeaways__
   - Target retention strategies towards the 79-88 age group
