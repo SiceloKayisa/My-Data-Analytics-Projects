@@ -66,37 +66,6 @@ __Key Takeaways__
   - Focus on improving customer experience in high-churn states
 
 
-																			
-	Total Customers	Churned Customers	Churn Rate %																
-	6687	1796	26,86															Intl Plan	yes
-																			
-																		State	Sum of Their Churn Rate
-																		CA	75,00%
-																		IN	66,67%
-																		NH	62,50%
-																		LA	50,00%
-																		KY	50,00%
-																		TX	41,67%
-																		NM	40,00%
-																		CO	37,50%
-																		AK	37,50%
-																		OH	36,84%
-																		DE	35,00%
-																		PA	33,33%
-																		HI	33,33%
-																		NE	33,33%
-																		ME	33,33%
-																		MS	31,25%
-																		MA	31,25%
-																		MO	30,77%
-																		MD	30,00%
-																		AL	29,41%
-																		MI	27,78%
-																		OK	27,27%
-																		WI	25,00%
-																		ND	25,00%
-																		RI	25,00%
-																		ID	25,00%
 ![image](https://github.com/user-attachments/assets/7f8060b2-1892-4827-9f11-1628499ad7da)
 
 
