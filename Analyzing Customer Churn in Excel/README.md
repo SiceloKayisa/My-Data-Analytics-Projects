@@ -28,9 +28,9 @@ I searched for any missing values and removed duplicate values.
 ### Results Analysis
 
   __Key Findings__ <br>
-Total Customers: 6,687
-Churned Customers: 1,796
-Overall Churn Rate: 26.86%
+  * Total Customers: 6,687
+  * Churned Customers: 1,796
+  * Overall Churn Rate: 26.86%
 
 __Churn by Demographics__<br>
 Significant variations in churn rates among seniors and customers under 30
