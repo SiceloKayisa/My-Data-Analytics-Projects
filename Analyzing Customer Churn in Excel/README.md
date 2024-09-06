@@ -33,36 +33,37 @@ I searched for any missing values and removed duplicate values.
   * Overall Churn Rate: 26.86%
 
 __Churn by Demographics__<br>
-Significant variations in churn rates among seniors and customers under 30
+  * Significant variations in churn rates among seniors and customers under 30
 
 __Age Group Analysis__ <br>
-Highest churn rate observed in the 79-88 age group
+  * Highest churn rate observed in the 79-88 age group
 
 __Competitor Churn Analysis__ <br>
 Main reasons for switching to competitors:
-Better device offers (37%)
-More attractive data plans (37%)
-Higher download speeds (14%)
+  * Better device offers (37%)
+  * More attractive data plans (37%)
+  * Higher download speeds (14%)
 
 __Consumption-based Churn__ <br>
 Higher churn rates among users consuming less than 5GB of data
 
 __Geographic Churn Patterns__ <br>
+
 Highest churn rates:
-California (75%)
-Indiana (67%)
-New Hampshire (63%)
+  * California (75%)
+  * Indiana (67%)
+  * New Hampshire (63%)
 
 __Methodology__ <br>
-Utilized Excel's Pivot Tables, Charts, and Data Analysis Toolpak
-Created a comprehensive dashboard for visualizing churn patterns
-Employed calculated columns and fields for deeper insights
+  - Utilized Excel's Pivot Tables, Charts, and Data Analysis Toolpak
+  - Created a comprehensive dashboard for visualizing churn patterns
+  - Employed calculated columns and fields for deeper insights
 
 Key Takeaways
-Target retention strategies towards the 79-88 age group
-Address pricing concerns and enhance service quality
-Develop competitive device and data plan offerings
-Focus on improving customer experience in high-churn states
+  - Target retention strategies towards the 79-88 age group
+  - Address pricing concerns and enhance service quality
+  - Develop competitive device and data plan offerings
+  - Focus on improving customer experience in high-churn states
 
 
 
