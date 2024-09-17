@@ -25,7 +25,7 @@ Using Excel's powerful data analysis tools, we've uncovered key insights to help
 Data preparation is very important before we can perform any analysis. 
 I searched for any missing values and removed duplicate values.
 
-We also had to create new columns so we can add relevant categories.
+We also had to create new columns so we can add relevant variables to help improve our analysis.
 
 ### Results Analysis
 
