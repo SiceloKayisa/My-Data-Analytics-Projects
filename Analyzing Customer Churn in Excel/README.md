@@ -59,7 +59,7 @@ Highest churn rates:
 __Methodology__ <br>
   - Performed Data Aggregation using the Pivot Tables
   - Organised data using Sorting and Conditional formatting
-  - Employed calculated columns and fields for deeper insights
+  - Created new columns and fields through calculations for deeper insights
   - Created a Comprehensive Dashboard for visualizing churn patterns
   - Derived a report and presentation that can be presented to the company's stakeholders
 
