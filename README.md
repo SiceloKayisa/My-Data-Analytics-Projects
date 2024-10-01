@@ -1,12 +1,12 @@
 ## My Data Analytics Projects
 
-##### Overview
+### Overview
 
 
 This repository houses a collection of data analytics projects I've undertaken. Each project explores a specific dataset or problem, applying various techniques and tools to extract meaningful insights.
 
 
-##### Technologies and Tools
+### Technologies and Tools
 
   - __Programming Languages__: Python, R, SQL <br>
   - __Libraries and Frameworks__: Pandas, NumPy, Matplotlib, Seaborn <br>
