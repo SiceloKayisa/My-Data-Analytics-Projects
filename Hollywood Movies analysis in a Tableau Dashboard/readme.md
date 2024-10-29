@@ -17,3 +17,8 @@ There is title, genre, studio, different profitability, ratings, and year for mo
 #### Acknowledgements
 Thanks to information is beautiful.net for providing with the dataset.
 
+![image](https://github.com/user-attachments/assets/ccfc96ac-bca5-451e-97fe-77fa6af18d98)
+
+
+
+
