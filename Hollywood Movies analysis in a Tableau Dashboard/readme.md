@@ -10,8 +10,8 @@ There is title, genre, studio, different profitability, ratings, and year for mo
 
 #### Analysis 
 
-  •	How are the most profitable movies rated by viewers and critics
-  •	How much revenue did each of the top-rated films generate for its studio
+  •	How are the most profitable movies rated by viewers and critics<br>
+  •	How much revenue did each of the top-rated films generate for its studio<br>
   •	Which movie had the highest worldwide gross
 
 #### Acknowledgements
