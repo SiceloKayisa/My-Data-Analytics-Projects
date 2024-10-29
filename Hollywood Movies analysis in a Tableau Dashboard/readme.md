@@ -19,6 +19,13 @@ Thanks to information is beautiful.net for providing with the dataset.
 
 ![image](https://github.com/user-attachments/assets/ccfc96ac-bca5-451e-97fe-77fa6af18d98)
 
+![image](https://github.com/user-attachments/assets/4b5389e0-00f4-4c6a-97dd-921893de1653)
+
+![image](https://github.com/user-attachments/assets/c1ae936e-32af-4d45-bac5-20f82fd1be3b)
+
+
+
+
 
 
 
