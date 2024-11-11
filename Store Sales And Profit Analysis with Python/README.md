@@ -36,7 +36,7 @@ You are provided with the store data **(Sample - Superstore)** in a csv file for
 
 ![image](https://github.com/user-attachments/assets/fa5a74d4-cbee-4202-927d-ce1bf81032a4)
 
-##### From the chart we can observe the following#####
+##### From the chart we can observe the following
 
 - Chairs and Phones generate the highest sales for the store
 
