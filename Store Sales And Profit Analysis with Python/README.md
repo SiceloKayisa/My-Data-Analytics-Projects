@@ -30,6 +30,8 @@ You are provided with the store data **(Sample - Superstore)** in a csv file for
 
 ![image](https://github.com/user-attachments/assets/36590050-5f25-4af9-a71d-f3cf4cbaecc6)
 
+##### Sales contribution analysis by product field category
+
 ![image](https://github.com/user-attachments/assets/99ce5a4e-2f2f-4183-b15a-b68714bb1eab)
 
 - From the pie chart we can clearly observe that the store generates most of it's sales from Technology equipment followed by furniture and lastly Office Supplies
