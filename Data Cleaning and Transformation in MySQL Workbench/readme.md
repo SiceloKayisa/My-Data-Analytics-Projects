@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This repository contains SQL scripts and documentation for a data cleaning and transformation project. The primary goal of this project is to take raw, messy data from an e-commerce platform's transactional tables (customers_raw, orders_raw, products_raw) and transform it into a clean, well-structured format for analysis and reporting. The final clean tables are intended to serve as a reliable source of truth for business intelligence, marketing, and operational teams.
+This repository contains SQL script and documentation for a data cleaning and transformation project. The primary goal of this project is to take raw, messy data from an e-commerce platform's transactional tables (customers_raw, orders_raw, products_raw) and transform it into a clean, well-structured format for analysis and reporting. The final clean tables are intended to serve as a reliable source of truth for business intelligence, marketing, and operational teams.
 
 ### Data Sources
 The project uses three raw tables, each containing data with various inconsistencies, missing values, and formatting issues.
