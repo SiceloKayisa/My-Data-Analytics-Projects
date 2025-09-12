@@ -16,7 +16,7 @@ The project uses three raw tables, each containing data with various inconsisten
 ### Key Transformation Steps
 The project follows a systematic approach to data cleaning, addressing several common data quality issues:
 
-Handling Missing Values: Identifying and managing missing data points (NULL or empty strings) in critical columns like phone_number and email.
+**Handling Missing Values:** Identifying and managing missing data points (NULL or empty strings) in critical columns like phone_number and email.
 
 ### Standardizing Text Data:
 
