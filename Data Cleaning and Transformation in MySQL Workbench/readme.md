@@ -30,6 +30,27 @@ The project follows a systematic approach to data cleaning, addressing several c
 
 **Identifying and Handling Duplicates:** Using techniques to count and inspect unique values to identify duplicates that need to be resolved or removed.
 
+### Procedure 
+
+**1. Create the Raw Tables:**
+
+Load your raw data into the `customers_raw`, `orders_raw`, and `products_raw` tables within a MySQL database.
+
+You can use the SELECT INTO OUTFILE command or the Table Data Export Wizard in MySQL Workbench to load the data from your CSV files.
+
+**2. Execute the Cleaning Script:**
+
+Open your MySQL client and connect to your database.
+
+Open the data_cleaning_script.sql file.
+
+Run the queries in the script sequentially to perform the cleaning and transformation steps.
+
+**Verify the Data:**
+
+After running the script, you can perform SELECT queries on your newly cleaned tables to verify the data quality and ensure all transformations were succes
+
+
 ### Technologies Used
 **MySQL:** The relational database management system used for storing and manipulating the data.
 
