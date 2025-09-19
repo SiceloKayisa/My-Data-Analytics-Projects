@@ -40,10 +40,10 @@ The project is built on a normalized relational model with five core tables. The
 ### Key Accomplishments
 - **Database Schema Design:** Designed and implemented a normalized database schema with a key Bill of Materials (BOM) table, which accurately models the relationship between raw materials and finished products in a manufacturing process.
 
-- **Automated Production Workflow:** Developed a stored procedure (ProcessProductionOrder) that automates the entire production process. The procedure checks for sufficient raw materials, deducts them from inventory, and updates the finished product stock, all within a secure transaction.
+- **Automated Production Workflow:** Developed a stored procedure (`ProcessProductionOrder`) that automates the entire production process. The procedure checks for sufficient raw materials, deducts them from inventory, and updates the finished product stock, all within a secure transaction.
 
 - **Transactional Integrity:** Implemented transactions with START TRANSACTION and COMMIT/ROLLBACK to ensure data consistency. This guarantees that all steps in a production order either succeed or fail as a single unit, preventing data inconsistencies.
 
-- **Advanced Database Logic:** Created a database trigger (before_raw_material_purchase) to automatically update raw material stock upon a new shipment. This showcases an ability to implement automated business rules directly at the database level, which is a key component of robust ERP systems.
+- **Advanced Database Logic:** Created a database trigger (`before_raw_material_purchase`) to automatically update raw material stock upon a new shipment. This showcases an ability to implement automated business rules directly at the database level, which is a key component of robust ERP systems.
 
-**Technical Problem-Solving:** Successfully diagnosed and resolved a data type conflict that violated a CHECK constraint in the BillOfMaterials table. This demonstrates a strong ability to debug and troubleshoot complex database errors, ensuring the system functions as designed.
+- **Technical Problem-Solving:** Successfully diagnosed and resolved a data type conflict that violated a CHECK constraint in the BillOfMaterials table. This demonstrates a strong ability to debug and troubleshoot complex database errors, ensuring the system functions as designed.
