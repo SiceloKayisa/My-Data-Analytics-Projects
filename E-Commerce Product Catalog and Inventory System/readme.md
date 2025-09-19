@@ -1,7 +1,7 @@
 ## E-Commerce Product Catalog and Inventory System
 
 ### Project Overview
-This project is a foundational database system for an e-commerce platform, built using MySQL. It demonstrates a complete backend solution for managing a product catalog, customer data, and real-time inventory levels. The system is designed to be robust, with features that ensure data integrity and automate key business processes.
+This project involved designing, implementing, and debugging a relational database for a complete e-commerce platform. The core goal was to create a robust and scalable database schema capable of handling product catalogues, customer information, orders, and inventory management within MySQL workbench.
 
 ### Features
 - **Product Catalog Management:** A complete system to handle product and category information.
