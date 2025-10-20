@@ -1,4 +1,10 @@
 
+## Exploring Trends in the Automotive Industry - Tableau Dashboard
+
+This project involved creating a comprehensive, interactive Tableau dashboard to visualize and analyze used car sales data. The goal was to provide actionable insights into key market trends, performance metrics, and pricing factors within the automotive industry, enabling **data-driven decision-making.**
+
+###Project Files
+
 | File Name | Description |
 | :--- | :--- |
 | `Exploring Trends in the Automotive Industry.twbx` | The packaged Tableau workbook containing the dashboard and data. |
