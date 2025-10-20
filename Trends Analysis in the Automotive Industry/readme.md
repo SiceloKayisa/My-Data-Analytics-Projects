@@ -43,7 +43,7 @@ The dashboard combines used car listing data from various sources, allowing for 
 
 ---
 
-## Quantifiable Key Achievements
+## Key Achievements
 
 Based on the dashboard's analysis, several key trends and metrics were successfully visualized:
 
