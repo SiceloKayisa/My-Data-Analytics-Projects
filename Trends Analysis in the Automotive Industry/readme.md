@@ -23,6 +23,8 @@ The analysis and dashboard were designed to achieve the following key goals:
 
 ---
 
+---
+
 ## Key Visualizations and Analysis
 
 The dashboard combines used car listing data from various sources, allowing for deep **slicing and dicing** of the data using filters and parameters. Key visualizations include:
