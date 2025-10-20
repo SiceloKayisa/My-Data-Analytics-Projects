@@ -51,3 +51,6 @@ Based on the analysis of the **32,941 Total Number of Calls**, the dashboard imm
 ---
 
 Feel free to download the `.twbx` file and explore the interactive dashboard in **Tableau Desktop** or **Tableau Reader**!
+
+<img width="892" height="410" alt="Capt3" src="https://github.com/user-attachments/assets/007b50e5-ca6b-43ee-8f11-8375174ae63b" />
+
