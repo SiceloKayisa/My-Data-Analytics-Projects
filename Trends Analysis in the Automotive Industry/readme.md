@@ -47,10 +47,10 @@ The dashboard combines used car listing data from various sources, allowing for 
 
 Based on the dashboard's analysis, several key trends and metrics were successfully visualized:
 
-* **Sales Trend Identified:** The visualization of selling price by year clearly shows a significant **peak in total selling price** around the **2015-2020** period, with total sales hitting over **\$925 million**.
-* **Fuel Type Distribution:** The analysis of car volume by fuel type shows **Diesel** cars dominate the market count at **4,834** vehicles, followed by **Petrol** at **3,534**.
-* **High-Value Segment:** **Electric** cars, despite having a low count (**35** vehicles), command the highest **Average Selling Price** at over **\$2 million**.
-* **Transmission Performance:** **Manual** cars have a higher **Count of Automatic & Manual cars** at approximately **7,500+** compared to Automatic cars, while **Automatic** cars command a higher **Average Selling Price** at **\$1,887,940**.
+* Identified a peak sales period (2015-2020) with total used car sales exceeding \$925 million, providing critical data for inventory and marketing strategy forecasting.
+* Analyzed and segmented market volume, revealing that Diesel vehicles dominate the used car count at 4,834 units, followed by Petrol at 3,534 units, guiding procurement and stocking decisions.
+* Detected a high-value segment in Electric cars, which, despite low volume (35 units), commanded the highest Average Selling Price (ASP) exceeding \$2 million**, highlighting a premium market opportunity.
+* Established that Automatic transmission cars achieve a $1,887,940 ASP, significantly higher than Manual cars, despite Manual cars having a larger market volume (approx. 7,500+ units), informing premium pricing strategy.
 
 ---
 
