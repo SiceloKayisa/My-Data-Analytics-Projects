@@ -3,13 +3,28 @@
 
 This project involved creating a comprehensive, interactive Tableau dashboard to visualize and analyze used car sales data. The goal was to provide actionable insights into key market trends, performance metrics, and pricing factors within the automotive industry, enabling **data-driven decision-making.**
 
-###Project Files
+### Project Files
 
 | File Name | Description |
 | :--- | :--- |
 | `Exploring Trends in the Automotive Industry.twbx` | The packaged Tableau workbook containing the dashboard and data. |
 | `Exploring Trends in the Automotive Industry.csv` | The raw used car sales data used for the analysis. |
 | `Tableau Dashboard.png` | A screenshot of the final dashboard. |
+
+### Project Goals
+
+  - The analysis and dashboard were designed to achieve the following key goals:
+
+  - Provide insights into sales trends over time.
+
+  - Compare performance by transmission, fuel type, ownership, and other segments.
+
+  - Analyze sales and pricing by different car segments.
+
+  - Identify relationships between mileage, age, and pricing.
+
+  - Enable data-driven decision making for inventory, pricing, and marketing.
+
 ---
 
 ## Key Visualizations and Analysis
