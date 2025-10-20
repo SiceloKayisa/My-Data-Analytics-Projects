@@ -62,3 +62,5 @@ To view and interact with the full dashboard:
 2.  Open the file using **Tableau Reader** or **Tableau Desktop**.
 
 This project demonstrates proficiency in data cleaning, visualization design, and using Tableau to extract meaningful business insights from complex datasets.
+
+<img width="884" height="437" alt="image_3" src="https://github.com/user-attachments/assets/7b4712b6-a6a4-4c88-9ef3-8539ad242e74" />
