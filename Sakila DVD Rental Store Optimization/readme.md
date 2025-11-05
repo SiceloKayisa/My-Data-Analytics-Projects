@@ -65,7 +65,7 @@ Key tables and relationships include:
 * **`payment`** linked to **`customer`** and **`rental`** (1-to-many)
 
 
-## 🚀 Quantifiable Achievements for Resume
+## 🚀 Key Achievements
 
 Use these specific metrics and actions to highlight your impact and skills on your resume:
 
