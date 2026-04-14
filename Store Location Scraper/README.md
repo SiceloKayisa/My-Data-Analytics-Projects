@@ -1,4 +1,4 @@
-# End-to-End Data Engineering Pipeline: Store Location Scraper
+# Food Lovers Market Stores Location Scraper
 
 ## Project Overview
 This task was part of the technical assessment for a Data Analyst Graduate role that I was completing for Lightstone Group.
