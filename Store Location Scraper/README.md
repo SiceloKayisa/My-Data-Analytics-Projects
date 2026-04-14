@@ -1,7 +1,8 @@
-# End-to-End Data Engineering Pipeline: Store Location Analytics
+# End-to-End Data Engineering Pipeline: Store Location Scraper
 
 ## Project Overview
-This project involved the development of a robust data pipeline to extract, transform, and load (ETL) store location data from a retail website into a structured SQL Server environment. The task demonstrates the ability to handle the entire lifecycle of data—from raw web discovery to high-precision spatial analysis.
+This task was part of the technical assessment for a Data Analyst Graduate role that I was completing for Lightstone Group.
+The main purpose of the task was to develop of a robust data pipeline to extract, transform, and load (ETL) store location data from a retail website into a structured SQL Server environment. The task demonstrates the ability to handle the entire lifecycle of data—from raw web discovery to high-precision spatial analysis. 
 
 ## 🛠 Tools & Technologies
 - **Python 3.x**: Core programming language.
@@ -41,4 +42,4 @@ Unlike a linear task, this project utilized an **iterative development cycle**. 
 
 ---
 **Author:** Sicelo Kayisa  
-**Role:** Data Analyst Graduate  
+
