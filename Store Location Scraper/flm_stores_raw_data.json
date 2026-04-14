@@ -1,0 +1,629 @@
+[
+    {
+        "store_name": "Food Lover's Market Balfour Park",
+        "address": "Balfour Park Shopping Centre, Balfour Road, Vincent, East London, Eastern Cape, 5217, South Africa",
+        "phone": "043 727 0060",
+        "email": "eastlondon@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketBalfourPark/",
+        "url": "https://foodloversmarket.co.za/stores/eastern-cape/food-lovers-market-balfour-park/"
+    },
+    {
+        "store_name": "Food Lover's Market Jeffreys Bay",
+        "address": "Shop 60, Equinox Mall, Saint Francis Street, Shop no- 60, Equinox Mall, St. Francis Street, Jeffreys Bay, Jeffrey's Bay, Eastern Cape, 6330, South Africa",
+        "phone": "042 293 0369",
+        "email": "jbay@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketJeffreysBay",
+        "url": "https://foodloversmarket.co.za/stores/eastern-cape/food-lovers-market-jeffreys-bay/"
+    },
+    {
+        "store_name": "Food Lover's Market Moffett Retail Park",
+        "address": "Shop 1, Moffett Retail Park, William Moffett Expy, Moffett, Gqeberha, Eastern Cape, 6001, South Africa",
+        "phone": "087 058 0567",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://facebook.com/FoodLoversMarketMoffettRetailPark/",
+        "url": "https://foodloversmarket.co.za/stores/eastern-cape/food-lovers-market-moffett-retail-park/"
+    },
+    {
+        "error": "404 Client Error: Not Found for url: https://foodloversmarket.co.za/stores/eastern-cape/food-lovers-market-rustenburg-closed/"
+    },
+    {
+        "store_name": "Food Lover's Market Showgate",
+        "address": "Showgate Centre, Curie Avenue, Generaal De Wet, Bloemfontein, Free State, 9301, South Africa",
+        "phone": "071 849 8137",
+        "email": "bloemfontein@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketShowgate/",
+        "url": "https://foodloversmarket.co.za/stores/free-state/food-lovers-market-showgate/"
+    },
+    {
+        "store_name": "Food Lover's Market Bassonia",
+        "address": "Omni Square, Soetdoring Avenue, Bassonia, Johannesburg South, 2061",
+        "phone": "N/A",
+        "email": "admin.bassonia@flm.co.za",
+        "facebook_url": "N/A",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-bassonia/"
+    },
+    {
+        "store_name": "Food Lover's Market Boksburg",
+        "address": "Monte Cristo Boulevard, Beyers Park, Boksburg, Gauteng, 1459, South Africa",
+        "phone": "087 821 7380",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketBoksburg/",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-boksburg/"
+    },
+    {
+        "store_name": "Food Lover's Market Castle Gate",
+        "address": "Shop 7, Castle Gate Lifestyle Shopping Centre, Solomon Mahlangu Drive, Erasmus Park, Pretoria, Gauteng, 0157, South Africa",
+        "phone": "012 0030 419",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketCastlegateLifestyle/",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-castle-gate/"
+    },
+    {
+        "store_name": "Food Lover's Market Comaro Crossing",
+        "address": "Comaro Crossing Shopping Mall, Boundary Road, Oakdene, Johannesburg South, Gauteng, 2190, South Africa",
+        "phone": "010 443 8939",
+        "email": "comarocrossing@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketComaroCrossing",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-comaro-crossing/"
+    },
+    {
+        "store_name": "Food Lover's Market Ferndale",
+        "address": "Shop L90, Ferndale on Republic, Republic Road, President Ridge, Randburg, Gauteng, 2194, South Africa",
+        "phone": "011 791 9003",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketFerndale",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-ferndale/"
+    },
+    {
+        "store_name": "Food Lover's Market Fourways Mall",
+        "address": "Fourways Mall, Cedar Road, Witkoppen, Sandton, Gauteng, 2068, South Africa",
+        "phone": "011 465 8051",
+        "email": "fourways@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketFourwaysMall",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-fourways-mall/"
+    },
+    {
+        "store_name": "Food Lover's Market Gateway Corner",
+        "address": "Shop 19, Gateway Corner, Sarel Baard Crescent, Rooihuiskraal, Centurion, Gauteng, 0154, South Africa",
+        "phone": "012 661 4887",
+        "email": "gateway@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketGateway/",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-gateway-corner/"
+    },
+    {
+        "store_name": "Food Lover's Market Harvest Place",
+        "address": "Harvest Place Shopping Centre, Monument Road, Glen Marais, Kempton Park, Gauteng, 1619, South Africa",
+        "phone": "010 900 5189",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketHarvestPlace/",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-harvest-place/"
+    },
+    {
+        "store_name": "Food Lover's Market Hillfox",
+        "address": "Hillfox Value Centre, Hendrik Potgieter Road, Weltevredenpark, Roodepoort, Gauteng, 1709, South Africa",
+        "phone": "011 675 4160",
+        "email": "admin.hillfox@flm.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketHermanus",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-hillfox/"
+    },
+    {
+        "store_name": "Food Lover's Market Jabulani",
+        "address": "Shop 1D, Jabulani Mall, Bolani Road, Jabulani, Soweto, Gauteng, 1868, South Africa",
+        "phone": "011 930 6476",
+        "email": "jabulani@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketJabulani",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-jabulani/"
+    },
+    {
+        "store_name": "Food Lover's Market Lenasia",
+        "address": "Nirvana Drive, Ext. 9, Lenasia, Gauteng, 1820, South Africa",
+        "phone": "011 852 1301",
+        "email": "lenasia@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketLenasia/",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-lenasia/"
+    },
+    {
+        "store_name": "Food Lover's Market Lynnwood Lane",
+        "address": "Lynnwood Lane Retail Centre, The Hwy Street, Equestria, Pretoria, Gauteng, 0184, South Africa",
+        "phone": "012 111 1999",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketLynnwoodLane",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-lynnwood-lane/"
+    },
+    {
+        "store_name": "Food Lover's Market Menlyn Mall",
+        "address": "Shop G197, Menlyn Park Shopping Centre, Atterbury Road, Garston AH, Pretoria, Gauteng, 0063, South Africa",
+        "phone": "012 348 3760",
+        "email": "menlyn@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketMenlynMall",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-menlyn-mall/"
+    },
+    {
+        "store_name": "Food Lover's Market Montana",
+        "address": "Woestyn Close, Montana Tuine, Montana Tuine, Pretoria, Gauteng, 0182, South Africa",
+        "phone": "012 5489 308",
+        "email": "montana@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketMontana",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-montana/"
+    },
+    {
+        "store_name": "Food Lover's Market Morning Glen",
+        "address": "Bowling Avenue, Gallo Manor, Sandton, Gauteng, 2052, South Africa",
+        "phone": "011 035 6910",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketMorningGlenMall/",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-morning-glen/"
+    },
+    {
+        "store_name": "Food Lover's Market New Market",
+        "address": "Shop 8, Newmarket Mall, Voortrekker Rd, Newmarket Park, Alberton, Gauteng, 1449, South Africa",
+        "phone": "011 907 0191",
+        "email": "alberton@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketNewMarketMall/",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-newmarket/"
+    },
+    {
+        "store_name": "Food Lover's Market Nkomo Village",
+        "address": "Nkomo Village Shopping Centre, Tlou Street, Atteridgeville, Pretoria, Gauteng, 0006, South Africa",
+        "phone": "087 809 4620",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketNkomoVillage/",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-nkomo-village/"
+    },
+    {
+        "store_name": "Food Lover's Market Park Meadows",
+        "address": "Park Meadows Shopping Centre, Cumberland Road, Kensington, Johannesburg, Gauteng, 2101, South Africa",
+        "phone": "011 615 3819",
+        "email": "bruma@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketParkMeadows/",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-park-meadows/"
+    },
+    {
+        "store_name": "Food Lover's Market Stoneridge Centre",
+        "address": "Shop U78, Stoneridge Centre, Modderfontein Road, Modderfontein, Gauteng, 1609, South Africa",
+        "phone": "011 452 2835",
+        "email": "fvc.greenstone@gmail.com",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketStoneridgeCentre",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-stoneridge-centre/"
+    },
+    {
+        "store_name": "Food Lover's Market Sunward Park",
+        "address": "Kingfisher Avenue, Leeuwpoort 113-Ir, Boksburg, Gauteng, 1470, South Africa",
+        "phone": "011 913 3407",
+        "email": "flmsunwardpark@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketSunwardPark",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-sunward-park/"
+    },
+    {
+        "store_name": "Food Lover's Market Vanderbijl Park",
+        "address": "Louis Trichardt Boulevard, Vanderbijlpark S. E. 1, Vanderbijlpark, Gauteng, 1911, South Africa",
+        "phone": "016 933 3311",
+        "email": "vanderbijl@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketVanderbijlPark",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-vanderbijl-park/"
+    },
+    {
+        "store_name": "Food Lover's Market Waterfall Ridge",
+        "address": "Shop 1, Waterfall Ridge Shopping Centre, 8 Ridge Road, Vorna Valley, Midrand, Gauteng, 1686, South Africa",
+        "phone": "010 446 0025",
+        "email": "Waterfallridge@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversWaterfallRidge/",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-waterfall-ridge/"
+    },
+    {
+        "store_name": "Food Lover's Market Westgate",
+        "address": "Westgate Shopping Centre, Ontdekkers Road, Horizon View, Roodepoort, Gauteng, 1724, South Africa",
+        "phone": "011 768 0351",
+        "email": "vieramarket@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketWestgate",
+        "url": "https://foodloversmarket.co.za/stores/gauteng/food-lovers-market-westgate/"
+    },
+    {
+        "store_name": "Food Lover's Market Arbour Crossing",
+        "address": "Shop 38, Arbour Crossing Retail Centre, Arbour Road, Umbogintwini, eManzimtoti, KwaZulu-Natal, 4126, South Africa",
+        "phone": "031 904 2228",
+        "email": "arborcrossing@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketArbourCrossing",
+        "url": "https://foodloversmarket.co.za/stores/kwazulu-natal/food-lovers-market-arbour-crossing/"
+    },
+    {
+        "store_name": "Food Lover's Market Ballito",
+        "address": "Shop 1, The Circle Business Park, Douglas Crowe Drive, Ballito, Durban, KwaZulu-Natal, 4420, South Africa",
+        "phone": "032 946 3762",
+        "email": "ballito@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketBallito",
+        "url": "https://foodloversmarket.co.za/stores/kwazulu-natal/food-lovers-market-ballito/"
+    },
+    {
+        "store_name": "Food Lover's Market Cornubia",
+        "address": "Food Lover's Village, Allamanda Road, Flanders, Blackburn, KwaZulu-Natal, 4319, South Africa",
+        "phone": "0315628065",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketCornubia/",
+        "url": "https://foodloversmarket.co.za/stores/kwazulu-natal/food-lovers-market-cornubia/"
+    },
+    {
+        "store_name": "Food Lover's Market Fiveways Mall",
+        "address": "Fiveways Mall, Rex Henderson Road, Fairview, Empangeni, KwaZulu-Natal, 3880, South Africa",
+        "phone": "035 772 2268",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketFivewaysMall",
+        "url": "https://foodloversmarket.co.za/stores/kwazulu-natal/food-lovers-market-fiveways-mall/"
+    },
+    {
+        "store_name": "Food Lover's Market Malvern",
+        "address": "Sarnia Road, Malvern, Queensburgh, KwaZulu-Natal, 4055, South Africa",
+        "phone": "031 464 4555",
+        "email": "malvern@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketMalvern",
+        "url": "https://foodloversmarket.co.za/stores/kwazulu-natal/food-lovers-market-malvern/"
+    },
+    {
+        "store_name": "Food Lover's Market Musgrave",
+        "address": "Musgrave Road, Musgrave, Berea, KwaZulu-Natal, 4001, South Africa",
+        "phone": "031 035 1721",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/foodloversmarketmusgrave/",
+        "url": "https://foodloversmarket.co.za/stores/kwazulu-natal/food-lovers-market-musgrave/"
+    },
+    {
+        "store_name": "Food Lover's Market Richard's Bay",
+        "address": "Shop L84, Boardwalk Inkwazi Shopping Centre, Mark Strasse, Richards Bay Central, Richards Bay, KwaZulu-Natal, 3900, South Africa",
+        "phone": "035 789 7345",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketRichardsBay/",
+        "url": "https://foodloversmarket.co.za/stores/kwazulu-natal/food-lovers-market-richards-bay/"
+    },
+    {
+        "store_name": "Food Lover's Market South Coast Mall (Shelly Beach)",
+        "address": "Southcoast Mall, Izotsha Road, Shelly Beach, Margate, KwaZulu-Natal, 4265, South Africa",
+        "phone": "039 315 6384",
+        "email": "shelleybeach@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketSouthCoastMall",
+        "url": "https://foodloversmarket.co.za/stores/kwazulu-natal/food-lovers-market-south-coast-mall-margate/"
+    },
+    {
+        "store_name": "Food Lover's Market Springfield",
+        "address": "Sprinfeild Retail Centre, Ilala Avenue, Umgeni Business Park, Durban, KwaZulu-Natal, 4001, South Africa",
+        "phone": "031 263 0487",
+        "email": "springfieldpark@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketSpringfield/",
+        "url": "https://foodloversmarket.co.za/stores/kwazulu-natal/food-lovers-market-springfield/"
+    },
+    {
+        "store_name": "Food Lover's Market The Farmyard",
+        "address": "The Farmyard, Buzworx Avenue, Polokwane, Limpopo, 0700, South Africa",
+        "phone": "015 590 5000",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketTheFarmyard/",
+        "url": "https://foodloversmarket.co.za/stores/limpopo/food-lovers-market-the-farmyard/"
+    },
+    {
+        "store_name": "Food Lover's Market Tzaneen Corner",
+        "address": "Wolkberg Drive, Aqua Park, Tzaneen, 0850",
+        "phone": "015 307 1288",
+        "email": "tzaneen@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketTzaneen",
+        "url": "https://foodloversmarket.co.za/stores/limpopo/food-lovers-market-tzaneen-corner/"
+    },
+    {
+        "store_name": "Food Lover's Market Middelburg",
+        "address": "Keiskamma Street, Aerorand, Middelburg, Mpumalanga, 1055, South Africa",
+        "phone": "013 301 0986",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketMiddelburg",
+        "url": "https://foodloversmarket.co.za/stores/mpumalanga/food-lovers-market-middelburg/"
+    },
+    {
+        "store_name": "Food Lover's Market Nelspruit",
+        "address": "Andrew Street, Mbombela, Mpumalanga, 1201, South Africa",
+        "phone": "013 752 3791",
+        "email": "nelspruitadmin@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketNelspruit",
+        "url": "https://foodloversmarket.co.za/stores/mpumalanga/food-lovers-market-nelspruit/"
+    },
+    {
+        "store_name": "Food Lover's Market Secunda Mall",
+        "address": "Shop UG36, Secunda Mall, Kuschke Street, Secunda, Mpumalanga, 2302, South Africa",
+        "phone": "017 200 4289",
+        "email": "secunda@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketSecundaMall",
+        "url": "https://foodloversmarket.co.za/stores/mpumalanga/food-lovers-market-secunda-mall/"
+    },
+    {
+        "store_name": "Food Lover's Market Witbank",
+        "address": "Jeanette Street, Zeekoewater 311-Js, Emalahleni, Mpumalanga, 1034, South Africa",
+        "phone": "013 656 1941",
+        "email": "witbank@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketWitbank",
+        "url": "https://foodloversmarket.co.za/stores/mpumalanga/food-lovers-market-witbank/"
+    },
+    {
+        "store_name": "Food Lover's Market Hilltop Village",
+        "address": "Hilltop Village, Ombika Street, Windhoek, Namibia",
+        "phone": "414 700",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketHilltopVillage/",
+        "url": "https://foodloversmarket.co.za/stores/namibia/food-lovers-market-hilltop-village/"
+    },
+    {
+        "store_name": "Food Lover's Market Maerua Mall",
+        "address": "Shop 51 Maerua Mall, Windhoek, Namibia 9100",
+        "phone": "428 800",
+        "email": "mvdb@fvc.na",
+        "facebook_url": "https://business.facebook.com/FLM.MaeruaMall/",
+        "url": "https://foodloversmarket.co.za/stores/namibia/food-lovers-market-maerua-mall/"
+    },
+    {
+        "store_name": "Food Lover's Market Swakopmund",
+        "address": "Mandume Ya Ndemufayo Street, Swakopmund, Namibia",
+        "phone": "414 400",
+        "email": "swakop@fvc.na",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketSwakopmund/",
+        "url": "https://foodloversmarket.co.za/stores/namibia/food-lovers-market-swakopmund/"
+    },
+    {
+        "store_name": "Food Lover's Market Walvis Bay",
+        "address": "69 Moses Garoeb Str, Walvis Bay, Namibia, PO Box 86252, Eros, Namibia",
+        "phone": "207 152",
+        "email": "walvis@fvc.na",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketWalvisBay/",
+        "url": "https://foodloversmarket.co.za/stores/namibia/food-lovers-market-walvis-bay/"
+    },
+    {
+        "store_name": "Food Lover's Market Wernhil",
+        "address": "Wernhil Shopping Centre, Wecke Street, Windhoek, 10005",
+        "phone": "401 702",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketWernhil/",
+        "url": "https://foodloversmarket.co.za/stores/namibia/food-lovers-market-wernhil/"
+    },
+    {
+        "store_name": "Food Lover's Market Klerksdorp",
+        "address": "Central Avenue, Irenepark, Klerksdorp, North West, 2571, South Africa",
+        "phone": "018 462 3706",
+        "email": "klerksdorpffs@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketKlerksdorp/",
+        "url": "https://foodloversmarket.co.za/stores/north-west/food-lovers-market-klerksdorp/"
+    },
+    {
+        "store_name": "Food Lover's Market Rustenburg Cornerstone",
+        "address": "Shop 15, Cornerstone Lifestyle Centre, Faisal Mafa Drive, Cashan, Rustenburg, North West, 2999, South Africa",
+        "phone": "014 880 0460",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketCornerstoneLifestyleCentre/",
+        "url": "https://foodloversmarket.co.za/stores/north-west/food-lovers-market-rustenburg-cornerstone/"
+    },
+    {
+        "store_name": "Food Lover's Market Kathu",
+        "address": "Shop 29, Kathu Village Mall, Hendrik Van Eck Road, Kathu, Northern Cape, 8446, South Africa",
+        "phone": "053 880 0420",
+        "email": "kathu@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketKathu/",
+        "url": "https://foodloversmarket.co.za/stores/northern-cape/food-lovers-market-kathu/"
+    },
+    {
+        "store_name": "Food Lover's Market Kimberley",
+        "address": "Diamond Pavilion Mall, Cruikshank Street, Monument Heights, Kimberley, Northern Cape, 8301, South Africa",
+        "phone": "053 832 9965",
+        "email": "kimberley@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketKimberley",
+        "url": "https://foodloversmarket.co.za/stores/northern-cape/food-lovers-market-kimberley/"
+    },
+    {
+        "store_name": "Food Lover's Market Upington",
+        "address": "Basson Street, Upington, Northern Cape, 8800, South Africa",
+        "phone": "054 338 6600",
+        "email": "manager@fvcupt.co.za",
+        "facebook_url": "https://www.facebook.com/Foodloversmarketupington",
+        "url": "https://foodloversmarket.co.za/stores/northern-cape/food-lovers-market-upington/"
+    },
+    {
+        "store_name": "Food Lover's Market Garden Route Mall",
+        "address": "Garden Route Mall, Park Road, George, Western Cape, 6529, South Africa",
+        "phone": "044 887 0282",
+        "email": "georgeflm@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketGardenRouteMall",
+        "url": "https://foodloversmarket.co.za/stores/south-western-districts/food-lovers-market-garden-route-mall/"
+    },
+    {
+        "store_name": "Food Lover's Market Knysna",
+        "address": "Union Street, Knysna Central, Knysna, Western Cape, 6571, South Africa",
+        "phone": "044 382 2204",
+        "email": "knysna@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketKnysna",
+        "url": "https://foodloversmarket.co.za/stores/south-western-districts/food-lovers-market-knysna/"
+    },
+    {
+        "store_name": "Food Lover's Market Mossel Bay",
+        "address": "Melkhout Street, Mossel Bay, Western Cape, 6500, South Africa",
+        "phone": "044 693 0545",
+        "email": "mosselbay@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketMosselBay",
+        "url": "https://foodloversmarket.co.za/stores/south-western-districts/food-lovers-market-mossel-bay/"
+    },
+    {
+        "store_name": "Food Lover's Market Oudtshoorn",
+        "address": "Shop 1,, Klein Karoo Markt,, Rademeyer St,, Oudtshoorn,, 6620",
+        "phone": "044 272 7378",
+        "email": "oudtshoorn@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketOudtshoorn/",
+        "url": "https://foodloversmarket.co.za/stores/south-western-districts/food-lovers-market-oudtshoorn/"
+    },
+    {
+        "store_name": "Food Lover's Market Access Park",
+        "address": "Shop A10, Access Park, Race Course Road, Claremont, Cape Town, Western Cape, 7708, South Africa",
+        "phone": "021 671 4414",
+        "email": "accesspark@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketAccessPark",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-access-park/"
+    },
+    {
+        "store_name": "Food Lover's Market Bothasig",
+        "address": "Link Road, Bothasig, Cape Town, Western Cape, 7441, South Africa",
+        "phone": "021 203 0303",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/foodloversmarketbothasig",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-bothasig/"
+    },
+    {
+        "store_name": "Food Lover's Market Brackenfell",
+        "address": "Shop 52, Brackenfell Retail Park, Old Paarl Road, Brackenfell, Cape Town, Western Cape, 7560, South Africa",
+        "phone": "021 981 8884",
+        "email": "brackenfell@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketBrackenfell",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-brackenfell/"
+    },
+    {
+        "store_name": "Food Lover's Market Hartenbos",
+        "address": "Shop 31, Garden Walk Mall, R102, Mossel Bay, Western Cape, 6520, South Africa",
+        "phone": "0442204427",
+        "email": "care@fnv.co.za",
+        "facebook_url": "N/A",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-hartenbos/"
+    },
+    {
+        "store_name": "Food Lover's Market Hermanus",
+        "address": "Whale Coast Mall, R43, Sandbaai, Western Cape, 7200, South Africa",
+        "phone": "028 312 4475",
+        "email": "hermanus@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketHermanus",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-hermanus/"
+    },
+    {
+        "store_name": "Food Lover's Market Long Beach Mall",
+        "address": "Shop G60, Longbeach Mall, Longboat Street, Sunnydale, Cape Town, Western Cape, 7975, South Africa",
+        "phone": "021 785 7060",
+        "email": "longbeach@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketLongBeachMall",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-long-beach-mall/"
+    },
+    {
+        "store_name": "Food Lover's Market Malmesbury",
+        "address": "Shop 29, De Zwartland Werf Retail Centre, Piketberg Street, Malmesbury, Western Cape, 7300, South Africa",
+        "phone": "021 207 2500",
+        "email": "Admin.malmesbury@flm.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketMalmesbury/",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-malmesbury/"
+    },
+    {
+        "store_name": "Food Lover's Market Mountain Mill",
+        "address": "Mountain Mill Shopping Centre, Mountain Mill Drive, Hospital Hill, Worcester, Western Cape, 6850, South Africa",
+        "phone": "031 941 4853",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/foodloversmarketworcester/",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-mountain-mill/"
+    },
+    {
+        "store_name": "Food Lover's Market N1 City",
+        "address": "Shop 77, N1 City Value Centre, Solly Smiedt Street, N1 City, Cape Town, Western Cape, 7460, South Africa",
+        "phone": "021 595 4558",
+        "email": "N1city@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketN1City/",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-n1city/"
+    },
+    {
+        "store_name": "Food Lover's Market Ottery",
+        "address": "Shop 53, Ottery Hyper, Ottery Road, Ottery, Cape Town, Western Cape, 7808, South Africa",
+        "phone": "021 903 0197",
+        "email": "care@fnv.co.za",
+        "facebook_url": "N/A",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-ottery/"
+    },
+    {
+        "store_name": "Food Lover's Market Paarl",
+        "address": "Cecilia Street, Southern Paarl, Paarl, Western Cape, 7624, South Africa",
+        "phone": "021 217 7777",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketPaarl/",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-paarl/"
+    },
+    {
+        "store_name": "Food Lover's Market Parow",
+        "address": "Shop 33, Shoprite Park, Voortrekker Road, Parow, Cape Town, Western Cape, 7500, South Africa",
+        "phone": "021 911 0778",
+        "email": "parow@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketParow/",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-parow/"
+    },
+    {
+        "store_name": "Food Lover's Market Pinehurst",
+        "address": "Shop 39, Pinehurst Shopping Centre, Pinehurst Dr, Pinehurst, Cape Town, Western Cape, 7561, South Africa",
+        "phone": "021 975 5767",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketPinehurst/",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-pinehurst/"
+    },
+    {
+        "store_name": "Food Lover's Market Roeland Street",
+        "address": "Drury Street, District Six, Cape Town, Western Cape, 7925, South Africa",
+        "phone": "021 462 0200",
+        "email": "roelandstreet@fnv.co.za",
+        "facebook_url": "https://business.facebook.com/FoodLoversMarketRoelandStreet/",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-roeland-street/"
+    },
+    {
+        "store_name": "Food Lover's Market Sandown",
+        "address": "Shop GO3,, Sandown Retail Crossing,, Sandown Rd,, Milnerton Rural,, Cape Town,, 7441",
+        "phone": "021 250 0007",
+        "email": "sandown@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketParklands",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-sandown/"
+    },
+    {
+        "store_name": "Food Lover's Market Somerset West",
+        "address": "Shop 3, Somerset Value Centre, Centenary Drive, Somerset West, Cape Town, Western Cape, 7130, South Africa",
+        "phone": "021 180 5280",
+        "email": "somersetwest@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketSomersetWest",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-somerset-west/"
+    },
+    {
+        "store_name": "Food Lover's Market Tokai",
+        "address": "Shop 5, Tokai on Main, Main Road, Dreyersdal, Cape Town, Western Cape, 7945, South Africa",
+        "phone": "021 712 2244",
+        "email": "tokai@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketTokai",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-tokai/"
+    },
+    {
+        "store_name": "Food Lover's Market Vergelegen",
+        "address": "Shop LG21, Vergelegen Plein Shopping Centre, Summer Hill Drive, Helderberg Rural, Cape Town, Western Cape, 7135, South Africa",
+        "phone": "021 180 5344",
+        "email": "care@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketVergelegen",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-vergelegen/"
+    },
+    {
+        "store_name": "Food Lover's Market Weskus Mall",
+        "address": "Shop L42, Weskus Mall, Saldanha Road, Vredenburg, Western Cape, 7380, South Africa",
+        "phone": "022 713 3629",
+        "email": "weskusmall@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketWeskusMall/",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-weskus-mall/"
+    },
+    {
+        "store_name": "Food Lover's Market Willowbridge",
+        "address": "Shop 3, Willowbridge Village Shopping Centre, Carl Cronje Drive, Tygervalley, Cape Town, Western Cape, 7530, South Africa",
+        "phone": "021 914 8011",
+        "email": "tygervalley@fnv.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketWillowbridge",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-willowbridge/"
+    },
+    {
+        "store_name": "Food Lover's River Quarter",
+        "address": "River Quarter, Bottelary Road, Kuils River, Cape Town, 7579",
+        "phone": "021 1805 366",
+        "email": "admin.riverquarter@flm.co.za",
+        "facebook_url": "https://www.facebook.com/FoodLoversMarketRiverQuarter",
+        "url": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-river-quarter/"
+    },
+    {
+        "store_name": "Food Lover's Market Greendale",
+        "address": "16 Greendale Avenue, Greendale (Honeydew Lifestyle Centre), Harare, 263, Mashonaland",
+        "phone": "24 249 5098",
+        "email": "care@fnv.co.za",
+        "facebook_url": "N/A",
+        "url": "https://foodloversmarket.co.za/stores/zimbabwe/food-lovers-market-greendale/"
+    }
+]
